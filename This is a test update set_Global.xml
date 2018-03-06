@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-03-06 23:39:09"><sys_remote_update_set><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description/><inserted/><name>This is a test update set</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>e3b524ffdba41300d9baddd0cf9619be</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>aac3fa3fdb2c1300d9baddd0cf96194e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_3458de2aff7102007729ffffffffff7c</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Banner image for UI16</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.product.image.light</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-08-13 22:49:27</sys_created_on><sys_id>3458de2aff7102007729ffffffffff7c</sys_id><sys_mod_count>8</sys_mod_count><sys_name>glide.product.image.light</sys_name><sys_package display_value="UI16" source="com.glide.ui.ui16">470ab4a6f822030059a64c78fda74a42</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_3458de2aff7102007729ffffffffff7c</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:04:02</sys_updated_on><type>uploaded_image</type><value>1c20bc3fdbe41300d9baddd0cf96196d.iix</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=3458de2aff7102007729ffffffffff7c"/></record_update>]]></payload><payload_hash>-1778576153</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>22c3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba04f820000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>glide.product.image.light</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>522034bf51e4130010e6d810b937f19c</update_guid><update_guid_history>522034bf51e4130010e6d810b937f19c:-1778576153,9e9fa87f91e4130086ca0a465d828d51:1420724700,230fa47fd7e413001564a57bde42158a:1944616601,98cea07b90e413000d4ba69cdb4b8085:-1493030673,94cea07bc4e41300a04a2af17f724f84:-2138926055</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_7619c651d7013100ea9e47eb5e6103b1</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>CSS Last Modified</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>css.version</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>anthony.arobone</sys_created_by><sys_created_on>2014-12-16 21:32:17</sys_created_on><sys_id>7619c651d7013100ea9e47eb5e6103b1</sys_id><sys_mod_count>26</sys_mod_count><sys_name>css.version</sys_name><sys_package display_value="System (glidesoft)" source="glidesoft">3b793c22f822030059a64c78fda74aaa</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_7619c651d7013100ea9e47eb5e6103b1</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:04:02</sys_updated_on><type>string</type><value>2018-03-06_06:04:02</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=7619c651d7013100ea9e47eb5e6103b1"/></record_update>]]></payload><payload_hash>2070664557</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>2ec3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba04fd30000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>css.version</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>da2034bfbae413004972d7b93934829f</update_guid><update_guid_history>da2034bfbae413004972d7b93934829f:2070664557,ab0fa47fc3e41300541e187f3211ad8d:2120312687,d8cea07bc8e413007e5db17b8ad67489:-172845137,356eac3f61e41300f42f8f8e076d723a:1889384270,356eac3f2ce41300c0b4af460adbca39:1730593147</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_script_include_c0f0776edb2f0b405dbe38f0ad961971</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.DevSafeUtils&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;DevSafeUtils&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var DevSafeUtils = Class.create();
+DevSafeUtils.prototype = {
+
+    initialize: function(updateSet_gr) {
+		
+		var record = new GlideRecord('u_devsafe_config');
+		record.addEncodedQuery('u_active=true');
+		record.query();
+		while(record.next()){
+			this.TOKEN = record.u_token + '';
+			this.GITURI = record.u_uri + '';
+		}
+		
+        this.CURRENT = updateSet_gr;
+        //this.TOKEN = gs.getProperty('devsafe.githib.token');  Properties saved the token and github ban's it.
+        //this.GITURI = gs.getProperty('devsafe.githib.uri');
+        this.exportedBy = gs.getUserID();
+        this.exportedBy_email = gs.getUser().getRecord().getValue('email');
+        this.FILENAME = encodeURIComponent(updateSet_gr.getValue('name') + "_" + updateSet_gr.getDisplayValue('application')) + '.xml';
+        this.debug = true;
+    },
+
+    syncMultipleRecords: function() {
+
+        var filter = gs.getProperty('devsafe.multiple_record_sync.filter');
+        var localUpdateSets = new GlideRecord('sys_update_set');
+        localUpdateSets.addEncodedQuery(filter);
+        localUpdateSets.query();
+        while (localUpdateSets.next()) {
+            this.initialize(localUpdateSets)
+            this.syncSingleRecord();
+        }
+    },
+
+    syncSingleRecord: function() {
+        var syncStatus = 'failed';
+
+        if (this.CURRENT) {
+            try {
+
+                // Generate temp retrieved update set based on local update set
+                var grRetrievedUpdateSet = new GlideRecord('sys_remote_update_set');
+                grRetrievedUpdateSet.initialize();
+                grRetrievedUpdateSet.description = this.CURRENT.description;
+                grRetrievedUpdateSet.name = this.CURRENT.name;
+                grRetrievedUpdateSet.release_date = this.CURRENT.release_date;
+                grRetrievedUpdateSet.remote_sys_id = this.CURRENT.sys_id;
+                grRetrievedUpdateSet.application = this.CURRENT.application;
+                grRetrievedUpdateSet.state = "loaded";
+
+
+                var grScope = new GlideRecord('sys_scope');
+                grScope.get(this.CURRENT.application);
+
+                if (grScope.isValid()) {
+                    grRetrievedUpdateSet.application_name = grScope.name;
+                    grRetrievedUpdateSet.application_scope = grScope.scope;
+                    grRetrievedUpdateSet.application_version = grScope.version;
+                }
+
+                var sysidRetrieved;
+
+                if (sysidRetrieved = grRetrievedUpdateSet.insert()) {
+
+                    // Generate Updates for Temp Retrieved Update sets
+                    var grUpdateXML = new GlideRecord('sys_update_xml');
+                    grUpdateXML.addQuery('update_set', this.CURRENT.getUniqueValue());
+                    grUpdateXML.query();
+
+                    while (grUpdateXML.next()) {
+                        grUpdateXML.remote_update_set = sysidRetrieved;
+                        grUpdateXML.update_set = '';
+                        grUpdateXML.insert();
+                    }
+
+
+                    this._loggit('syncSingleRecord.FILENAME: ' + this.FILENAME);
+                    syncStatus = this._uploadUpdateSetToGithub(sysidRetrieved);
+
+                    // Remove Temporary Retrieved UpdateSets
+
+                    grUpdateXML = new GlideRecord('sys_update_xml');
+                    grUpdateXML.addQuery('remote_update_set', sysidRetrieved);
+                    grUpdateXML.query();
+                    grUpdateXML.deleteMultiple();
+                    grRetrievedUpdateSet = new GlideRecord('sys_remote_update_set');
+                    grRetrievedUpdateSet.get(sysidRetrieved);
+                    grRetrievedUpdateSet.deleteRecord();
+                }
+            } catch (err) {
+                this._loggit('syncSingleRecord.error: ' + err);
+            }
+        } else {
+            this._loggit('syncSingleRecord.noCurrent: ' + this.CURRENT);
+        }
+        return syncStatus;
+    },
+
+
+    // Upload Function
+    _uploadUpdateSetToGithub: function(retrievedUpdateSet) {
+        var uploadStatus;
+        this._loggit('_uploadUpdateSetToGithub.retrievedUpdateSet: ' + retrievedUpdateSet);
+        try {
+
+            this._loggit('_uploadUpdateSetToGithub.URI: ' + this.GITURI + this.FILENAME)
+
+            // check if Update Set already exists
+            // var response = this._gitAPI('GET', this.GITURI + this.FILENAME)  // Would not return larg update sets
+            var existingSha = this._getSha(this.FILENAME)
+gs.info("existingSha: "+existingSha)
+            // Get bse64 of update set
+            var b64Content = GlideStringUtil.base64Encode(this._buildUpdateSetXML(retrievedUpdateSet).toString())
+
+            // Build body of rest call
+            var body = {
+                "message": "Creating snow-update-set-sync...",
+                "committer": {
+                    "name": this.exportedBy,
+                    "email": this.exportedBy_email
+                },
+                "content": b64Content
+            };
+
+            // if (response.status == 200)
+            if (existingSha)
+                body.sha = existingSha;
+
+            // Push update set to GitHub
+            var getRec = this._gitAPI("PUT", this.GITURI + this.FILENAME, body);
+            if (getRec.status = '200') {
+                uploadStatus = 'successful';
+            } else {
+                uploadStatus = 'failed';
+            }
+
+        } catch (err) {
+            this._loggit('_uploadUpdateSetToGithub.error: ' + err);
+            uploadStatus = 'failed';
+        }
+        return uploadStatus;
+    },
+
+    _buildUpdateSetXML: function(set) {
+
+        try {
+
+            // get Retrieved Update set
+            var tempRetrievedUpdateSet = new GlideRecord('sys_remote_update_set');
+            tempRetrievedUpdateSet.get(set);
+            var parentpdateSetXml = this._getXML(tempRetrievedUpdateSet);
+
+            // get child updates
+            var childUpdateSetXml = this._getChildUpdates(tempRetrievedUpdateSet.sys_id.toString());
+
+            // format XML to be retrieved
+            var replaceThis = '&lt;?xml version="1.0" encoding="UTF-8"?&gt;';
+            var withThat = '&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;unload unload_date="' + GlideSysDateUtil.getUMTDateTimeString() + '"&gt;';
+            parentpdateSetXml = parentpdateSetXml.replace(replaceThis, withThat);
+
+            // Combine the updates and update set into one.
+            var updateSetXml = parentpdateSetXml + childUpdateSetXml + '&lt;/unload&gt;';
+
+            return updateSetXml;
+        } catch (err) {
+            this._loggit('_buildUpdateSetXML.error: ' + err);
+        }
+    },
+
+
+    _getXML: function(record) {
+        try {
+
+            var xml = new GlideRecordXMLSerializer();
+            var xmlString = xml.serialize(record);
+            return xmlString;
+        } catch (err) {
+            this._loggit('_getXML.error: ' + err);
+        }
+    },
+
+    getAllSets: function() {
+        var allSets = false;
+        try {
+            var allSets = this._gitAPI("GET", this.GITURI);
+        } catch (err) {
+            this._loggit('getAllSets.error: ' + err);
+        }
+        return allSets;
+    },
+
+    getOneSet: function() {
+        var URI = this.getParameter(sysparm_gitURI)
+        this._loggit('getOneSet.URI: ' + URI)
+
+        var foundIt = this.getSetFromGitHub(URI);
+        this._loggit('getOneSet.foundIt: ' + foundIt)
+
+        return foundIt;
+
+    },
+
+    checkForUpdateOfExistingLocalSet: function() {
+
+        var foundIt = false;
+        var URI;
+
+        this._loggit('checkForUpdateOfExistingLocalSet.FILENAME: ' +  this.FILENAME)
+        var newSet = false
+        var setObj = this.getAllSets();
+        var allSets = setObj.body
+        gs.info(JSON.stringify(allSets))
+        // If update set is found
+        for (set in allSets) {
+            var setName = allSets[set].name
+            if (setName == this.FILENAME) {
+                this._loggit('checkForUpdateOfExistingLocalSet.setName: ' + setName)
+                URI = allSets[set].git_url
+            }
+        }
+
+        foundIt = this.getSetFromGitHub(URI);
+
+        return foundIt;
+
+    },
+
+    getSetFromGitHub: function(gitURI) {
+        var newSet = false
+        var setXML = new XMLDocument(this._gitSetXML(gitURI));
+
+        if (setXML) {
+            newSet = this._createNewRetrievedUpdateSetFromXMLdoc(setXML)
+        }
+
+        return newSet;
+
+    },
+
+    _gitSetXML: function(setURI) {
+        var response = this._gitAPI("GET", setURI);
+        var b64Content = response.body.content.replace(/(?:\r\n|\r|\n)/g, '');
+        var xmlContent = GlideStringUtil.base64Decode(b64Content);
+        return xmlContent;
+    },
+
+    _gitAPI: function(method, URI, body) {
+
+        var gitAPI = new sn_ws.RESTMessageV2();
+        gitAPI.setHttpMethod(method);
+        gitAPI.setEndpoint(URI);
+        gitAPI.setRequestHeader('Authorization', 'Bearer ' + this.TOKEN);
+        if (body)
+            gitAPI.setRequestBody(JSON.stringify(body));
+
+        var response = gitAPI.execute();
+
+        if (response.getStatusCode() == '200') {
+            this._loggit('_gitAPI.response: ' + response.getBody());
+        } else {
+            var errorMessage = response.getBody()
+            this._loggit('_gitAPI.response: ' + response.getBody());
+            this._loggit('_gitAPI.getErrorMessage: ' + response.getErrorMessage());
+            this._loggit('_gitAPI.haveError: ' + response.haveError());
+            this._loggit('_gitAPI.getErrorCode: ' + response.getErrorCode());
+            this._loggit('_gitAPI.getStatusCode: ' + response.getStatusCode());
+
+        }
+
+        return {
+            'status': response.getStatusCode(),
+            'body': JSON.parse(response.getBody())
+        };
+    },
+
+    _createNewRetrievedUpdateSetFromXMLdoc: function(xmlDoc) {
+
+        // Create Retrieved Update Set
+        var newRetrievedUpdateSet_sysId = false;
+        try {
+
+            var newRetrievedUpdateSet = new GlideRecord('sys_remote_update_set')
+            newRetrievedUpdateSet.initialize();
+
+            // Get elements
+            var RUSFields = new GlideRecord('sys_dictionary');
+            RUSFields.addEncodedQuery("nameSTARTSWITHsys_remote_update_set^element!=NULL");
+            RUSFields.query();
+
+            //populate elements from XML 
+            while (RUSFields.next()) {
+                var elementName = RUSFields.element;
+                var elementValue = xmlDoc.getNodeText("//unload/sys_remote_update_set[1]/" + RUSFields.element);
+
+                if (elementValue &amp;&amp; elementName != 'remote_update_set') {
+                    newRetrievedUpdateSet[elementName] = elementValue;
+                }
+            }
+
+            // Insert record
+            newRetrievedUpdateSet_sysId = newRetrievedUpdateSet.insert();
+
+        } catch (err) {
+            this._loggit('_createNewRemoteUpdateSet.error.newRetrievedUpdateSet: ' + err);
+
+        }
+
+        // Create Updates
+        var set = 0;
+        while (true) {
+            set++
+            try {
+                if (xmlDoc.getNodeText("//unload/sys_update_xml[" + set + "]/name")) {
+
+                    // Get all elements of update table
+                    var newUpdate = new GlideRecord('sys_update_xml')
+                    newUpdate.initialize();
+
+                    // Get elements
+                    var updateFields = new GlideRecord('sys_dictionary');
+                    updateFields.addEncodedQuery("nameSTARTSWITHsys_update_xml^element!=NULL");
+                    updateFields.query();
+
+                    //populate elements from XML 
+                    while (updateFields.next()) {
+                        var elementName = updateFields.element;
+                        var elementValue = xmlDoc.getNodeText("//unload/sys_update_xml[" + set + "]/" + updateFields.element)
+
+                        if (elementValue &amp;&amp; elementName != 'remote_update_set') {
+                            newUpdate[elementName] = elementValue;
+                        }
+                    }
+                    newUpdate.remote_update_set = newRetrievedUpdateSet_sysId
+
+                    // Insert Record
+                    var newUpdateRec = newUpdate.insert();
+
+                } else {
+                    set--
+                    break;
+                }
+
+            } catch (err) {
+                this._loggit('_createNewRemoteUpdateSet.error.newUpdate: ' + err);
+                break;
+            }
+        }
+        return newRetrievedUpdateSet_sysId;
+    },
+
+    _getChildUpdates: function(parentSet) {
+        try {
+
+            var updatesXML;
+            var updates = new GlideRecord('sys_update_xml');
+            updates.query('remote_update_set', parentSet);
+            while (updates.next()) {
+                if (updatesXML)
+                    updatesXML += this._getXML(updates).replace('&lt;?xml version="1.0" encoding="UTF-8"?&gt;', '');
+                else
+                    updatesXML = this._getXML(updates).replace('&lt;?xml version="1.0" encoding="UTF-8"?&gt;', '');
+            }
+            return updatesXML;
+        } catch (err) {
+            this._loggit('_getChildUpdates.error: ' + err);
+        }
+    },
+
+    _loggit: function(message) {
+        if (this.debug) {
+            gs.info('DevSafe: ' + message);
+        }
+
+    },
+	
+	_getSha: function(filename){
+	gs.info("_getSha.filename: "+filename)
+		allSets = this.getAllSets();
+
+		var allSetsObj = JSON.parse(JSON.stringify(allSets));
+
+		var sha = false;
+		for (var set in allSetsObj.body) {
+
+			if (allSetsObj.body[set].name == filename) {
+				sha = allSetsObj.body[set].sha;
+			}
+		}
+	gs.info("_getSha.sha: "+sha)
+
+		return sha;
+		
+	},
+
+    type: 'DevSafeUtils'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;brent.llewellyn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-01-12 14:03:35&lt;/sys_created_on&gt;&lt;sys_id&gt;c0f0776edb2f0b405dbe38f0ad961971&lt;/sys_id&gt;&lt;sys_mod_count&gt;117&lt;/sys_mod_count&gt;&lt;sys_name&gt;DevSafeUtils&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_c0f0776edb2f0b405dbe38f0ad961971&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;brent.llewellyn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-03-06 23:37:28&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload><payload_hash>589484585</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>66c3fa3fdb2c1300d9baddd0cf961950</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fdad4e920000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>DevSafeUtils</target_name><type>Script Include</type><update_domain>global</update_domain><update_guid>9a63fa3f312c1300800d44f5b8f4954c</update_guid><update_guid_history>9a63fa3f312c1300800d44f5b8f4954c:589484585,a3437ebb3d2c1300796930dabc3c9597:-2103568921,3203fa7b222c1300841571ebce7dbd2e:887132168,d808e8b756e41300fe5d717b27b3c5e5:589484585,99b7287bc5e413002dd622eaeda2e587:1377752621,f29760b732e41300f23559ede457d0c3:158877983,6607683b2ce41300306042e3e4429cae:1818230698,9f5e3ceb87201300ee7032bcca6a8c1f:1191798824</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_71e1b8dac0a8016a01ea6a1ca634c46d</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Banner image</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.product.image</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2005-01-14 15:40:13</sys_created_on><sys_id>71e1b8dac0a8016a01ea6a1ca634c46d</sys_id><sys_mod_count>25</sys_mod_count><sys_name>glide.product.image</sys_name><sys_package display_value="System (apps/system2)" source="apps/system2">9e69b022f822030059a64c78fda74aa3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_71e1b8dac0a8016a01ea6a1ca634c46d</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:04:27</sys_updated_on><type>uploaded_image</type><value>4510387fdbe41300d9baddd0cf961926.iix</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=71e1b8dac0a8016a01ea6a1ca634c46d"/></record_update>]]></payload><payload_hash>-1750565337</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>6ac3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba0ae810000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>glide.product.image</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>d440f4bf3de41300868741739b67cf55</update_guid><update_guid_history>d440f4bf3de41300868741739b67cf55:-1750565337,738fa87fcee4130061b19caac2e19530:196497360,d5fe683b89e41300c8fa80d7d1329b51:1961430800,4a6eac3f74e413008385208e626f3941:-2139372325,756eac3f20e4130080637c8b3465c93d:715973837</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_06bfec82c611228e0180364128579471</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Banner and list caption background color&#13;
+			&lt;br/&gt;CSS color formats: &#13;
+			&lt;ul&gt;&#13;
+			&lt;li&gt;name - predefined color names: red, green, blue, etc.&#13;
+			&lt;li&gt;RGB decimal - RGB(102, 153, 204)&#13;
+			&lt;li&gt;RGB hex - #223344&#13;
+			&lt;/ul&gt;</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>css.base.color</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2006-05-05 22:51:49</sys_created_on><sys_id>06bfec82c611228e0180364128579471</sys_id><sys_mod_count>24</sys_mod_count><sys_name>css.base.color</sys_name><sys_package display_value="System (apps/system2)" source="apps/system2">9e69b022f822030059a64c78fda74aa3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_06bfec82c611228e0180364128579471</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 13:56:21</sys_updated_on><type>color</type><value>#d8d6d6</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=06bfec82c611228e0180364128579471"/></record_update>]]></payload><payload_hash>-1207043942</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>6ec3fa3fdb2c1300d9baddd0cf96194e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fb9947520000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>css.base.color</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>796eac3fefe413000cde8efe35e4ed3b</update_guid><update_guid_history>796eac3fefe413000cde8efe35e4ed3b:-1207043942,396eac3fa1e4130024f57030b3d4a437:1516148757</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_9cc2a59767120200772935e643415ac5</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Header divider stripe color</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>css.$navpage-header-divider-color</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-09-09 23:22:49</sys_created_on><sys_id>9cc2a59767120200772935e643415ac5</sys_id><sys_mod_count>5</sys_mod_count><sys_name>css.$navpage-header-divider-color</sys_name><sys_package display_value="UI16" source="com.glide.ui.ui16">470ab4a6f822030059a64c78fda74a42</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_9cc2a59767120200772935e643415ac5</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 13:57:54</sys_updated_on><type>color</type><value>#000000</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=9cc2a59767120200772935e643415ac5"/></record_update>]]></payload><payload_hash>1314372069</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>a2c3fa3fdb2c1300d9baddd0cf961950</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fb9ab04f0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>css.$navpage-header-divider-color</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>e0cee07f91e41300baab1289f7342f09</update_guid><update_guid_history>e0cee07f91e41300baab1289f7342f09:1314372069,60cee07fffe41300d4cc55b190a6b808:-1009511801</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_57dc3751ff2102007729ffffffffff17</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Banner text color&lt;/br&gt;Also affects toggle icon, Application text, and application and module hover text.</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>css.$navpage-header-color</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-07-28 22:42:11</sys_created_on><sys_id>57dc3751ff2102007729ffffffffff17</sys_id><sys_mod_count>11</sys_mod_count><sys_name>css.$navpage-header-color</sys_name><sys_package display_value="UI16" source="com.glide.ui.ui16">470ab4a6f822030059a64c78fda74a42</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_57dc3751ff2102007729ffffffffff17</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:04:02</sys_updated_on><type>color</type><value>#000000</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=57dc3751ff2102007729ffffffffff17"/></record_update>]]></payload><payload_hash>-1529445917</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>a6c3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba0501c0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>css.$navpage-header-color</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>a22034bf95e4130082293d1c49c96ba3</update_guid><update_guid_history>a22034bf95e4130082293d1c49c96ba3:-1529445917,630fa47f82e4130068b1e486535adf91:-1384204893,a4cee07f31e41300d7c377ebe946be06:1047741219,24cee07fbfe41300bff458bdff5e0f05:-1384204893</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_4fad9448c611228e00a6fed5f85ed47d</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Page header caption</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.product.description</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2005-01-08 00:16:10</sys_created_on><sys_id>4fad9448c611228e00a6fed5f85ed47d</sys_id><sys_mod_count>24</sys_mod_count><sys_name>glide.product.description</sys_name><sys_package display_value="System (apps/system2)" source="apps/system2">9e69b022f822030059a64c78fda74aa3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_4fad9448c611228e00a6fed5f85ed47d</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:06:35</sys_updated_on><type>string</type><value>Demo Instance</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=4fad9448c611228e00a6fed5f85ed47d"/></record_update>]]></payload><payload_hash>1057103236</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>e2c3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba2a60e0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>glide.product.description</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>7bb03cbf59e41300ed17d5c47f54f18c</update_guid><update_guid_history>7bb03cbf59e41300ed17d5c47f54f18c:1057103236,dc40787fb2e4130096ce117879ba37a7:595659529,9c40787f49e413006b6a1ea26f7f97a5:-661984164</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_properties_7a8aab11ff2102007729ffffffffffb8</name><payload><![CDATA[<record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Header background color</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>css.$navpage-header-bg</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-07-28 21:24:36</sys_created_on><sys_id>7a8aab11ff2102007729ffffffffffb8</sys_id><sys_mod_count>12</sys_mod_count><sys_name>css.$navpage-header-bg</sys_name><sys_package display_value="UI16" source="com.glide.ui.ui16">470ab4a6f822030059a64c78fda74a42</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_7a8aab11ff2102007729ffffffffffb8</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 14:04:02</sys_updated_on><type>color</type><value>#ffffff</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=7a8aab11ff2102007729ffffffffffb8"/></record_update>]]></payload><payload_hash>1333512593</payload_hash><remote_update_set display_value="This is a test update set">aac3fa3fdb2c1300d9baddd0cf96194e</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-03-06 23:39:08</sys_created_on><sys_id>eec3fa3fdb2c1300d9baddd0cf96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>161fba04fee0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-03-06 23:39:08</sys_updated_on><table/><target_name>css.$navpage-header-bg</target_name><type>System Property</type><update_domain>global</update_domain><update_guid>ee2034bf07e4130090a00ed6f01f7ba0</update_guid><update_guid_history>ee2034bf07e4130090a00ed6f01f7ba0:1333512593,af0fa47f8be41300bec57d89b97b008e:1188271569,10cea07b6de41300a741fe9da413d08b:1333512593,1ccea07b04e4130060191cccb2533387:1062035396</update_guid_history><update_set/><view/></sys_update_xml></unload>
