@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-06-12 07:00:11"><sys_remote_update_set><application display_value="CrankLeads">6670826adb1a17005dbe38f0ad961967</application><application_name>CrankLeads</application_name><application_scope>x_matsa_crankleads</application_scope><application_version>1.0.0</application_version><collisions/><commit_date/><deleted/><description>Automatically created by the system</description><inserted/><name>Default</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>767006aadb5a17005dbe38f0ad96199c</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-12 07:00:11</sys_created_on><sys_id>d1fa7b47db6a5f00497856f3ce9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-12 07:00:11</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="CrankLeads">6670826adb1a17005dbe38f0ad961967</application><category>customer</category><comments/><name>sys_script_395577dbdbd297005dbe38f0ad961906</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sys_email&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Check condition in cbuilder table&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	
+// 	// Add your code here
+// 	var iname=current.instance;
+	
+// 	var tname=current.instance.getRefRecord().getTableName();
+// 	var evaluator = new GlideScopedEvaluator();
+// 	//gs.addInfoMessage(tname);
+// 	current.u_translatedhtml=current.body;
+// 	//gs.addInfoMessage(current.condition);
+// 	var cond=new GlideRecord('x_60949_travel_boo_conditionbuilder');
+// 	cond.query();
+// 	while(cond.next()){
+// 		//gs.addInfoMessage(cond.condition);
+// 		var obj=new GlideRecord(tname);
+// 		obj.addEncodedQuery(cond.condition);
+// 		obj.addQuery('sys_id',iname);
+// 		obj.query();
+// 		while(obj.next()){
+// 				//find img tags and replace
+// 				var myRe=new RegExp('src\s*=\s*"(.+?)"', 'jg');
+// 			    var match = myRe.exec(current.body);
+// 				gs.addInfoMessage(match+"test");
+// 				var arr=match.toString().split(",");
+			
+// 				gs.addInfoMessage(arr[1]);
+// 				current.body = current.body.replace(myRe, 'src="https://dev17858.service-now.com/'+arr[1]+'"');
+			
+// 				//find href tags and replace
+// 				var myRe1=new RegExp('href\s*=\s*"(.+?)"','jg');
+// 				gs.addInfoMessage(myRe1+"test href tag");
+// 				var match1 = myRe1.exec(current.body);
+// 				gs.addInfoMessage(match1+"test");
+// 				var arr1=match1.toString().split(",");
+// 				gs.addInfoMessage(arr1[1]);
+// 				current.body = current.body.replace(myRe1, 'href="'+arr1[1]+'/countClick.do?name='+arr1[1]+'"');
+			
+				
+// 			}
+// 		}
+		
+	
+	current.body = current.body + '&lt;noscript&gt;&lt;div style="background: transparent url(https://cloudpires.service-now.com/matt.do?id='+current.sys_id+') no-repeat; height: 200px; width: 200px;"&gt;&lt;/div&gt;&lt;/noscript&gt;';
+		
+		
+	})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-05-31 14:59:22&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;395577dbdbd297005dbe38f0ad961906&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Check condition in cbuilder table&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CrankLeads" source="x_matsa_crankleads"&gt;6670826adb1a17005dbe38f0ad961967&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CrankLeads"&gt;6670826adb1a17005dbe38f0ad961967&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_395577dbdbd297005dbe38f0ad961906&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-12 03:55:11&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=395577dbdbd297005dbe38f0ad961906"/&gt;&lt;/record_update&gt;</payload><payload_hash>-1264408711</payload_hash><remote_update_set display_value="Default">d1fa7b47db6a5f00497856f3ce9619fe</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-12 07:00:11</sys_created_on><sys_id>d5fa7b47db6a5f00497856f3ce9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>163f2221ae90000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-12 07:00:11</sys_updated_on><table>sys_email</table><target_name>Check condition in cbuilder table</target_name><type>Business Rule</type><update_domain>global</update_domain><update_guid>d790dfc7bd665f005e9e2bafe3ac651a</update_guid><update_guid_history>d790dfc7bd665f005e9e2bafe3ac651a:-1264408711,a3857bdbc4d297006ab94b77f10ff879:241469967</update_guid_history><update_set/><view/></sys_update_xml></unload>
