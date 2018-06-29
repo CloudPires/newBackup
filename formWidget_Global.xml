@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-06-29 07:00:31"><sys_remote_update_set><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description/><inserted/><name>formWidget</name><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>2d9130a0db4bd7405dbe38f0ad961946</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>770e9fe8db431b40497856f3ce9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_ui_page_0962b4a0db4bd7405dbe38f0ad96195f</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint/&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+&lt;div&gt;
+    &lt;widget id="cab-change-calendar"&gt;&lt;/widget&gt;
+&lt;/div&gt;
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;widget_uipage&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;brent.llewellyn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-28 18:30:53&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;0962b4a0db4bd7405dbe38f0ad96195f&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;widget_uipage&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_0962b4a0db4bd7405dbe38f0ad96195f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;brent.llewellyn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-28 18:32:04&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload><payload_hash>-882100845</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>370e9fe8db431b40497856f3ce9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447aaab430000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>widget_uipage</target_name><type>UI Page</type><update_domain>global</update_domain><update_guid>18c278a0234bd740719d3fb676af6b6e</update_guid><update_guid_history>18c278a0234bd740719d3fb676af6b6e:-882100845,f2727c20d64bd740bb08593ef14a21c2:878867604</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_portal_3ea7b864db4bd7405dbe38f0ad9619be</name><payload><![CDATA[<record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><homepage display_value="wop_home">b6c7b864db4bd7405dbe38f0ad961913</homepage><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu/><sqanda_knowledge_base/><sys_class_name>sp_portal</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:53:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>3ea7b864db4bd7405dbe38f0ad9619be</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Widget on Platform</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_portal_3ea7b864db4bd7405dbe38f0ad9619be</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:54:33</sys_updated_on><theme/><title>Widget on Platform</title><url_suffix>wop</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=3ea7b864db4bd7405dbe38f0ad9619be"/></record_update>]]></payload><payload_hash>80083222</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>3b0e9fe8db431b40497856f3ce9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bf3f6e0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>Widget on Platform</target_name><type>Service Portal</type><update_domain>global</update_domain><update_guid>29e7b864074bd740820373fb8527dc6e</update_guid><update_guid_history>29e7b864074bd740820373fb8527dc6e:80083222,b3b7b864d84bd7406fd141c19b892344:-735989151</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_column_ef08bc64db4bd7405dbe38f0ad9619c2</name><payload><![CDATA[<record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">af08bc64db4bd7405dbe38f0ad9619c0</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:55:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ef08bc64db4bd7405dbe38f0ad9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_ef08bc64db4bd7405dbe38f0ad9619c2</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:55:14</sys_updated_on></sp_column></record_update>]]></payload><payload_hash>-1239922234</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>3f0e9fe8db431b40497856f3ce9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bfe0be0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>1</target_name><type>Column</type><update_domain>global</update_domain><update_guid>6308bc64674bd740c2899b09f5fa8cc4</update_guid><update_guid_history>6308bc64674bd740c2899b09f5fa8cc4:-1239922234</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_widget_26f7bc64db4bd7405dbe38f0ad9619ad</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;sample&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function ($timeout) {
+	var c = this;
+	c.darkness = "";
+	if (!c.options.c_color || !c.options.c_color.length)
+		c.options.c_color = 'red';
+	
+	var z = c.options.zone || "America/Los_Angeles"
+	c.date = moment().tz(z);
+	c.majors = new Array(12);
+	c.minors = new Array(60); 
+	(function tick() {
+		c.date = new moment().tz(z);
+		var t = c.date.hours();
+		c.darkness = "";
+		if (t &gt; 17)
+			c.darkness = "evening";
+		if (t &gt; 19)
+			c.darkness = "night";
+		if (t &lt; 5)
+			c.darkness = "night";
+		
+		$timeout(tick, 1000);
+	})();
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.clock {
+  width: 100%;
+  max-width:400px;
+  max-height: 400px;
+  padding: 1em;
+  margin: auto;
+}
+
+.square {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+}
+
+.clock-face {
+	stroke: #333;
+	fill: #FFF;
+}
+
+.minor {
+	stroke: #999;
+	stroke-width: 0.5;
+}
+
+.major {
+	stroke: #333;
+	stroke-width: 1;
+}
+
+.hour {
+	stroke: #333;
+}
+
+.minute {
+	stroke: #666; 
+}
+
+.second-counterweight {
+	stroke-width: 3;
+}
+
+g.night circle.clock-face {
+  stroke: #fff;
+  fill: #333;
+}
+
+g.night line.major {
+  stroke: #fff;
+}
+
+g.night line.hour {
+  stroke: #fff;
+}
+
+g.night line.minute {
+  stroke: #fff;
+}
+
+g.evening circle.clock-face {
+  stroke: #fff;
+  fill: #888;
+}
+
+g.evening line.major {
+  stroke: #fff;
+}
+
+g.evening line.hour {
+  stroke: #fff;
+}
+
+g.evening line.minute {
+  stroke: #fff;
+}
+
+g.evening line.minor {
+  stroke: #fff;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data&gt;{"options": 
+	{
+		"zone": "America/Los_Angeles",
+		"title": "San Diego, CA",
+		"c_color": "blue"
+	}
+}&lt;/demo_data&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list&gt;title&lt;/field_list&gt;&lt;has_preview&gt;true&lt;/has_preview&gt;&lt;id/&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function (scope, $element, attrs) {
+	var element = $element[0];
+	cacheElementSize(scope, element);
+	$(window).on('resize', onWindowResize);
+	// run after layout
+	setTimeout(onWindowResize, 5);
+	
+	function cacheElementSize(scope, element) {
+		var elem = scope.elem = {}
+		elem.w = element.offsetWidth;
+		elem.h = element.offsetHeight;
+		return elem;
+	}
+
+	function onWindowResize() {
+		var elem = scope.elem;
+		var isSizeChanged = elem.w != element.offsetWidth || elem.h != element.offsetHeight;
+		if (isSizeChanged) {
+			elem = cacheElementSize(scope, element);
+			// to stay square, the child width has to be
+			// min of height, width
+			var w = Math.min(elem.h, elem.w);
+			var clock = element.firstChild;
+			clock.style.width = w + "px";
+		}
+	}	
+}]]&gt;&lt;/link&gt;&lt;name&gt;Copy of Cool Clock&lt;/name&gt;&lt;option_schema&gt;[{"name":"zone","default_value":"America/Los_Angeles","section":"Data","label":"TimeZone","type":"string"},{"name":"c_color","default_value":"red","section":"Presentation","label":"Second hand color","type":"string"}]&lt;/option_schema&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function () {
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;brent.llewellyn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-28 18:54:54&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;26f7bc64db4bd7405dbe38f0ad9619ad&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Copy of Cool Clock&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_26f7bc64db4bd7405dbe38f0ad9619ad&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;brent.llewellyn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-28 18:54:54&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="clock"&gt;
+  &lt;span&gt;&lt;/span&gt;
+    &lt;div class="square"&gt;
+      &lt;svg viewBox="0 0 100 100"&gt;
+        &lt;g transform="translate(50,50)" class="{{c.darkness}}" &gt;
+          &lt;circle class="clock-face" r="48" /&gt;
+          &lt;line ng-repeat="minor in c.minors track by $index" class="minor"
+            y1="42" y2="45" ng-attr-transform="rotate({{360 * $index / c.minors.length}})" /&gt;
+          &lt;line ng-repeat="major in c.majors track by $index" class="major"
+            y1="35" y2="46" ng-attr-transform="rotate({{360 * $index / c.majors.length}})" /&gt;
+          &lt;line class="hour" y1="2" y2="-20"
+            ng-attr-transform="rotate({{30 * c.date.hours() + c.date.minutes() / 2}})" /&gt;
+          &lt;line class="minute" y1="4" y2="-30"
+            ng-attr-transform="rotate({{6 * c.date.minutes() + c.date.seconds() / 10}})" /&gt;
+          &lt;g ng-attr-transform="rotate({{6 * c.date.seconds()}})"&gt;
+            &lt;line stroke="{{::c.options.c_color}}" class="second" y1="10" y2="-38" /&gt;
+            &lt;line stroke="{{::c.options.c_color}}" class="second-counterweight" y1="10" y2="2" /&gt;
+          &lt;/g&gt;
+        &lt;/g&gt;
+      &lt;/svg&gt;
+    &lt;/div&gt;
+  &lt;div class="text-center text-muted m-t-sm"&gt;{{::c.options.title}}&lt;/div&gt;
+&lt;/div&gt;
+]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload><payload_hash>607892152</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>730e9fe8db431b40497856f3ce9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bf90d30000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>Copy of Cool Clock</target_name><type>Widget</type><update_domain>global</update_domain><update_guid>6ef7bc646c4bd7409ca1914523730cba</update_guid><update_guid_history>6ef7bc646c4bd7409ca1914523730cba:607892152</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_page_b6c7b864db4bd7405dbe38f0ad961913</name><payload><![CDATA[<record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>wop_home</id><internal>false</internal><public>false</public><roles/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:54:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b6c7b864db4bd7405dbe38f0ad961913</sys_id><sys_mod_count>0</sys_mod_count><sys_name>wop_home</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_page_b6c7b864db4bd7405dbe38f0ad961913</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:54:16</sys_updated_on><title>Widget on Platform</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=b6c7b864db4bd7405dbe38f0ad961913"/></record_update>]]></payload><payload_hash>1658814972</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>770e9fe8db431b40497856f3ce9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447befe0e0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>wop_home</target_name><type>Page</type><update_domain>global</update_domain><update_guid>ddd7b864734bd740a7d8ad6ff39c2f9f</update_guid><update_guid_history>ddd7b864734bd740a7d8ad6ff39c2f9f:1658814972</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>m2m_sp_widget_dependency_aaf7bc64db4bd7405dbe38f0ad9619bb</name><payload><![CDATA[<record_update table="m2m_sp_widget_dependency"><m2m_sp_widget_dependency action="INSERT_OR_UPDATE"><sp_dependency display_value="moment-timezone-with-data-2010-2020-v0.5">db6689c1cb11120000f8d856634c9c3b</sp_dependency><sp_widget display_value="Copy of Cool Clock">26f7bc64db4bd7405dbe38f0ad9619ad</sp_widget><sys_class_name>m2m_sp_widget_dependency</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:54:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>aaf7bc64db4bd7405dbe38f0ad9619bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>moment-timezone-with-data-2010-2020-v0.5.Copy of Cool Clock</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>m2m_sp_widget_dependency_aaf7bc64db4bd7405dbe38f0ad9619bb</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:54:54</sys_updated_on></m2m_sp_widget_dependency></record_update>]]></payload><payload_hash>-1751155671</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>7b0e9fe8db431b40497856f3ce9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bf90ee0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>moment-timezone-with-data-2010-2020-v0.5.Copy of Cool Clock</target_name><type>Widget Dependency</type><update_domain>global</update_domain><update_guid>aef7bc64204bd740250875cbe0d2aebc</update_guid><update_guid_history>aef7bc64204bd740250875cbe0d2aebc:-1751155671</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_instance_3708fc64db4bd7405dbe38f0ad9619cc</name><payload><![CDATA[<record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">ef08bc64db4bd7405dbe38f0ad9619c2</sp_column><sp_widget display_value="Copy of Cool Clock">26f7bc64db4bd7405dbe38f0ad9619ad</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:55:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>3708fc64db4bd7405dbe38f0ad9619cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_3708fc64db4bd7405dbe38f0ad9619cc</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:55:15</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=3708fc64db4bd7405dbe38f0ad9619cc"/></record_update>]]></payload><payload_hash>203370920</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>b30e9fe8db431b40497856f3ce9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bfe6070000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name/><type>Instance</type><update_domain>global</update_domain><update_guid>bf08fc64aa4bd74022105dd61f1efbcd</update_guid><update_guid_history>bf08fc64aa4bd74022105dd61f1efbcd:203370920</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_row_af08bc64db4bd7405dbe38f0ad9619c0</name><payload><![CDATA[<record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Widget on Platform - Container 1">2d087864db4bd7405dbe38f0ad961998</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:55:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>af08bc64db4bd7405dbe38f0ad9619c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_af08bc64db4bd7405dbe38f0ad9619c0</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:55:14</sys_updated_on></sp_row></record_update>]]></payload><payload_hash>-697119941</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>bf0e9fe8db431b40497856f3ce9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bfe0960000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>1</target_name><type>Row</type><update_domain>global</update_domain><update_guid>a308bc64554bd740c27345222dbf2ac2</update_guid><update_guid_history>a308bc64554bd740c27345222dbf2ac2:-697119941</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sys_ui_script_2bbff868db4bd7405dbe38f0ad961993</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;global&gt;false&lt;/global&gt;&lt;name&gt;eModal&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/* ========================================================================
+ * SaRibe: eModal.js v1.2.65
+ * http://saribe.github.io/eModal
+ * ========================================================================
+ * Copyright Samuel Ribeiro.
+ * Licensed under MIT.
+ * ======================================================================== */
+
+/**
+ * Easy Modal for bootstrap, is a simple way to create modal dialogs using javascript.
+ * @params allowed elements:
+ *     buttons  {array}:           An array of objects to configure buttons to modal footer; only able if message == string
+ *     css      {object}:          CSS object try apply into message body; only able if message == string
+ *     loading  {boolean}:         Set loading progress as message.
+ *     message  {string|object}:   The body message string or the HTML element. e.g.: jQuery(selector);
+ *     size     {string}:          sm || lg || xl -&gt; define the modal size.
+ *     subtitle {string}:          The header subtitle string. This appear in a smaller text.
+ *     title    {string}:          The header title string.
+ *     useBin   {boolean}:         Set message as recyclable.
+ * &lt;/summary&gt;
+ * &lt;param name="params"   &gt;Modal options parameters of string body message.&lt;/param&gt;
+ * &lt;param name="title"    &gt;The string header title or a flag to set default parameters.&lt;/param&gt;
+ * &lt;returns type="Promise"&gt;{ then, element }.&lt;/returns&gt;
+ */
+
+;
+(function (define) {
+    define(['jquery'], function (jQuery, root) {
+        var jQuerymodal;
+        var BIN = 'recycle-bin';
+        var DIV = '&lt;div&gt;';
+        var EMPTY = '';
+        var EVENT_CLICK = 'click';
+        var EVENT_HIDE = 'hide';
+        var EVENT_SHOW = 'shown.bs.modal';
+        var EVENT_SUBMIT = 'submit';
+        var FOOTER_ID = 'eFooter';
+        var HIDE = EVENT_HIDE + '.bs.modal';
+        var INPUT = 'input';
+        var KEY_DANGER = 'danger';
+        var LABEL = {
+            OK: 'Cancel',
+            True: 'False',
+            Yes: 'No'
+        };
+        var lastParams = {};
+        var MODAL_BODY = 'modal-body';
+        var MODAL_DIALOG = '.modal-dialog';
+        var options = {};
+        var REC_MODAL_CONTENT = 'modal-rec';
+        var SIZE = {
+            sm: 'sm',
+            lg: 'lg',
+            xl: 'xl'
+        };
+        var TMP_MODAL_CONTENT = 'modal-tmp';
+
+        var defaultSettings = {
+            allowContentRecycle: true,
+            confirmLabel: Object.keys(LABEL)[0],
+            labels: LABEL,
+            loadingHtml: '&lt;h5&gt;Loading...&lt;/h5&gt;&lt;div class=progress&gt;&lt;div class="progress-bar progress-bar-striped active" style="width: 100%"&gt;&lt;/div&gt;&lt;/div&gt;',
+            size: EMPTY,
+            title: 'Attention'
+        };
+
+        root.addLabel = addLabel;
+        root.ajax = ajax;
+        root.alert = alert;
+        root.close = close;
+        root.confirm = confirm;
+        root.emptyBin = emptyBin;
+        root.iframe = iframe;
+        root.prompt = prompt;
+        root.setId = setId;
+        root.setEModalOptions = setEModalOptions;
+        root.setModalOptions = setModalOptions;
+        root.size = SIZE;
+        root.version = '1.2.65';
+
+        return root;
+
+        //#region /////////////////////////* Private Logic */////////////////////////
+        /**
+         * Find modal body and append message to it.
+         * @param {String | DOM} message
+         */
+        function _build(message) {
+            jQuerymodal
+                .modal(options)
+                .find('.modal-content')
+                .append(message);
+        }
+
+        /**
+         * Will find what Promises approach the developer is using.
+         * Will use Promises A+ if Q.js is present, otherwise will use Promises A from jQuery.
+         * @returns {Promise}
+         */
+        function _createDeferred() {
+            var defer;
+
+            // try native promise
+            //if (Promise) defer = Promise.defer();
+
+            var q;
+
+            try {
+                q = require('Q');
+            } // Load option Q by require if exist
+            catch (e) {
+                q = window.Q;
+            }
+
+            if (q) { // try Q
+                defer = q.defer();
+            } else { // Use jQuery :(
+                defer = jQuery.Deferred();
+                defer.promise = defer.promise();
+            }
+
+            defer.promise.element = _getModalInstance(true).find(MODAL_DIALOG);
+            return defer;
+        }
+
+        /**
+         * Will create modal DOM footer with all buttons.
+         * @param {Array} buttons - all custom buttons, if none, will generate defaults
+         * @returns {jQueryDOM} footer DOM element
+         */
+        function _getFooter(buttons) {
+            if (buttons === false) {
+                return EMPTY;
+            }
+
+            var messageFotter = jQuery(DIV).addClass('modal-footer').prop('id', FOOTER_ID);
+            if (buttons) {
+                for (var i = 0, k = buttons.length; i &lt; k; i++) {
+                    var btnOp = buttons[i];
+                    var btn = jQuery('&lt;button&gt;').addClass('btn btn-' + (btnOp.style || 'primary'));
+
+                    for (var index in btnOp) {
+                        if (btnOp.hasOwnProperty(index)) {
+                            switch (index) {
+                                case 'close':
+                                    //add close event
+                                    if (btnOp[index]) {
+                                        btn.attr('data-dismiss', 'modal')
+                                            .addClass('x');
+                                    }
+                                    break;
+                                case EVENT_CLICK:
+                                    //click event
+                                    var fn = btnOp.click.bind(_getModalInstance(true).find('.modal-content'));
+                                    btn.click(fn);
+                                    break;
+                                case 'text':
+                                    btn.html(btnOp[index]);
+                                    break;
+                                default:
+                                    //all other possible HTML attributes to button element
+                                    btn.attr(index, btnOp[index]);
+                            }
+                        }
+                    }
+
+                    messageFotter.append(btn);
+                }
+            } else {
+                //if no buttons defined by user, add a standard close button.
+                messageFotter.append('&lt;button class="x btn btn-primary" data-dismiss=modal type=button&gt;Close&lt;/button&gt;');
+            }
+            return messageFotter;
+        }
+
+        /**
+         * Extract message from arguments.
+         * @param {Object | String} data - this can be the message string or the full detailed object
+         * @returns {jQueryDOM}
+         */
+        function _getMessage(data) {
+            var jQuerymessage;
+            var content = data.loading ?
+                defaultSettings.loadingHtml :
+                (data.message || data);
+
+            if (content.on || content.onclick) {
+                jQuerymessage = data.clone === true ?
+                    jQuery(content).clone() :
+                    jQuery(content);
+
+                jQuerymessage.addClass(data.useBin &amp;&amp; !data.loading ? REC_MODAL_CONTENT : TMP_MODAL_CONTENT);
+            } else {
+                jQuerymessage = jQuery(DIV)
+                    .attr('style', 'position:relative;word-wrap:break-word;')
+                    .addClass(MODAL_BODY)
+                    .html(content);
+            }
+
+            return data.css &amp;&amp; (data.css !== jQuerymessage.css &amp;&amp; jQuerymessage.css(data.css)), jQuerymessage;
+        }
+
+        /**
+         * Return a new modal object if is the first request or the already created model.
+         * @param {boolean} skipEventChageIfExists
+         * @returns {jQuery Object}
+         */
+        function _getModalInstance(skipEventChageIfExists) {
+            if (!jQuerymodal) {
+                //add recycle bin container to document
+                if (!jQuery('#' + BIN).length) {
+                    jQuery('body').append(jQuery(DIV).prop('id', BIN).hide());
+                }
+
+                jQuerymodal = createModalElement();
+            }
+
+            if (skipEventChageIfExists &amp;&amp; jQuerymodal) {
+                return jQuerymodal;
+            }
+
+            return jQuerymodal
+                .on(EVENT_SHOW, function () {
+                    jQuery(this).find(INPUT).first().focus();
+                });
+
+            function createModalElement() {
+                return jQuery('&lt;div class="modal fade" tabindex="-1"&gt;&lt;style&gt;.modal-xl{width:96%;}.modal-body{max-height: calc(100vh - 145px);overflow-y: auto;}&lt;/style&gt;' +
+                        '&lt;div class=modal-dialog&gt;' +
+                        '&lt;div class=modal-content&gt;' +
+                        ' &lt;div class=modal-header&gt;&lt;button type=button class="x close" data-dismiss=modal&gt;&lt;span aria-hidden=true&gt;&amp;times;&lt;/span&gt;&lt;span class=sr-only&gt;Close&lt;/span&gt;&lt;/button&gt;&lt;h4 class=modal-title&gt;&lt;/h4&gt;&lt;/div&gt;' +
+                        '&lt;/div&gt;' +
+                        '&lt;/div&gt;' +
+                        '&lt;/div&gt;')
+                    .on('hidden.bs.modal', _recycleModal)
+                    .on(EVENT_CLICK, 'button.x', function (ev) {
+                        var btn = jQuery(ev.currentTarget);
+
+                        if (btn.prop('type') !== EVENT_SUBMIT)
+                            return jQuerymodal.modal(EVENT_HIDE);
+
+                        try {
+                            if (btn.closest('form')[0].checkValidity())
+                                return close();
+                        } catch (e) {
+                            return close();
+                        }
+
+                        return jQuerymodal;
+                    });
+            }
+        }
+
+        /**
+         * Move content to recycle bin if is a DOM object defined by user,
+         * delete it if is a simple string message.
+         * All modal messages can be deleted if default setting "allowContentRecycle" = false.
+         */
+        function _recycleModal() {
+            if (!jQuerymodal) return;
+
+            var jQuerycontent = jQuerymodal.find('.' + REC_MODAL_CONTENT).removeClass(REC_MODAL_CONTENT)
+                .appendTo('#' + BIN);
+
+            jQuerymodal
+                .off(HIDE)
+                .off(EVENT_SHOW)
+                .find('.modal-content &gt; div:not(:first-child)')
+                .remove();
+
+            if (!defaultSettings.allowContentRecycle || lastParams.clone) {
+                jQuerycontent.remove();
+            }
+        }
+
+        /**
+         * Handle default values and toggle between {Object | String}.
+         * Create or get Modal element
+         * @param {Object | String} data - this can be the message string or the full detailed object
+         * @param {String} title - the string that will be shown in modal header
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function _setup(params, title) {
+            if (!params) throw new Error('Invalid parameters!');
+
+            _recycleModal();
+            lastParams = params;
+
+            // Lazy loading
+            var jQueryref = _getModalInstance();
+
+            //#region change size
+            jQueryref.find(MODAL_DIALOG)
+                .removeClass('modal-sm modal-lg modal-xl')
+                .addClass(params.size ? 'modal-' + params.size : defaultSettings.size);
+            //#endregion
+
+            //#region change title
+            jQueryref.find('.modal-title')
+                .html((params.title || title || defaultSettings.title) + ' ')
+                .append(jQuery('&lt;small&gt;').html(params.subtitle || EMPTY));
+            //#endregion
+
+            jQueryref.on(HIDE, params.onHide);
+        }
+        //#endregion
+
+        //#region /////////////////////////* Public Methods */////////////////////////
+
+        function addLabel(yes, no) {
+            LABEL[yes] = no;
+        }
+
+        /**
+         * Gets data from URL to eModal body
+         * @param {Object | String} data - this can be the message string or the full detailed object
+         * @param {String} title - the string that will be shown in modal header
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function ajax(data, title) {
+            var dfd = _createDeferred();
+
+            var params = {
+                async: true,
+                deferred: dfd,
+                loading: true,
+                title: data.title || title || defaultSettings.title,
+                url: data.url || data,
+                dataType: data.dataType || 'text'
+            };
+
+            if (data.url) {
+                jQuery.extend(params, data);
+            }
+
+            jQuery.ajax(params)
+                .done(ok)
+                .fail(error);
+
+            return alert(params, title);
+
+            function ok(html) {
+                jQuerymodal
+                    .find('.' + MODAL_BODY)
+                    .html(data.success ? data.success(html) : html);
+
+                return dfd.resolve(jQuerymodal);
+            }
+
+            function error(responseText, textStatus) {
+                var msg = data.error ?
+                    data.error(responseText, textStatus, params) :
+                    '&lt;div class="alert alert-danger"&gt;' +
+                    '&lt;strong&gt;XHR Fail: &lt;/strong&gt;URL [ ' + params.url + '] load fail.' +
+                    '&lt;/div&gt;';
+
+                jQuerymodal
+                    .find('.' + MODAL_BODY)
+                    .html(msg);
+                return dfd.reject(responseText);
+            }
+        }
+
+        /**
+         * Non blocking alert whit bootstrap.
+         * @param {Object | String} data - this can be the message string or the full detailed object.
+         * @param {String} title - the string that will be shown in modal header.
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function alert(data, title) {
+            _setup(data, title);
+
+            var dfd = data.deferred || _createDeferred();
+            var jQuerymessage = jQuery(DIV).append(_getMessage(data), _getFooter(data.buttons));
+
+            _build(jQuerymessage);
+
+            if (!data.async) {
+                jQuerymodal.on(EVENT_SHOW, dfd.resolve);
+            }
+
+            return dfd.promise;
+        }
+
+        /**
+         * Non blocking confirm dialog with bootstrap.
+         * @param {Object | String} data - this can be the message string or the full detailed object.
+         * @param {String} title - the string that will be shown in modal header.
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function confirm(data, title) {
+            var dfd = _createDeferred();
+
+            return alert({
+                async: true,
+                buttons: [{
+                    close: true,
+                    click: click,
+                    text: LABEL[data.label] ? LABEL[data.label] : LABEL[defaultSettings.confirmLabel],
+                    style: data.style &amp;&amp; data.style[0] || KEY_DANGER
+                }, {
+                    close: true,
+                    click: click,
+                    text: LABEL[data.label] ? data.label : defaultSettings.confirmLabel,
+                    style: data.style &amp;&amp; data.style[1]
+                }],
+                deferred: dfd,
+                message: data.message || data,
+                onHide: click,
+                size: data.size,
+                title: data.title || title
+            });
+
+            function click(ev) {
+                close();
+
+                var key = jQuery(ev.currentTarget).html();
+                return LABEL[key] ? dfd.resolve() : dfd.reject();
+            }
+        }
+
+        /**
+         * Will load a URL in iFrame inside the modal body.
+         * @param {Object | String} data - this can be the URL string or the full detailed object.
+         * @param {String} title - the string that will be shown in modal header.
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function iframe(params, title) {
+            var dfd = _createDeferred();
+            var html = ('&lt;div class=modal-body style="position: absolute;width: 100%;background-color: rgba(255,255,255,0.8);height: 100%;"&gt;%1%&lt;/div&gt;' +
+                    '&lt;iframe class="embed-responsive-item" frameborder=0 src="%0%" style="width:100%;height:75vh;display:block;"/&gt;')
+                .replace('%0%', params.message || params.url || params)
+                .replace('%1%', defaultSettings.loadingHtml);
+
+            var message = jQuery(html)
+                .load(iframeReady);
+
+            return alert({
+                async: true,
+                buttons: params.buttons || false,
+                deferred: dfd,
+                message: message,
+                size: params.size || SIZE.xl,
+                title: params.title || title
+            });
+            //////////
+
+            function iframeReady() {
+                jQuery(this)
+                    .parent()
+                    .find('div.' + TMP_MODAL_CONTENT)
+                    .fadeOut(function () {
+                        jQuery(this).remove();
+                    });
+
+                return dfd.resolve();
+            }
+        }
+
+        /**
+         * Remove all Dom elements in recycle bin.
+         * @returns {Array} All removed elements
+         */
+        function emptyBin() {
+            return jQuery('#' + BIN + ' &gt; *').remove();
+        }
+
+        /**
+         * Provides one value form.
+         * @param {Object | String} data - this can be the value string label or the full detailed object.
+         * @param {String} title - the string that will be shown in modal header.
+         * @returns {Promise} Promise with modal jQueryDOM element
+         */
+        function prompt(data, title) {
+            var dfd = _createDeferred();
+            var params = {
+                deferred: dfd
+            };
+
+            if (typeof data === 'object') {
+                jQuery.extend(params, data);
+            } else {
+                params.message = data;
+                params.title = title;
+            }
+
+            params.async = true;
+
+            if (params.buttons) {
+                var btn;
+                for (var i = 0, k = params.buttons.length; i &lt; k; i++) {
+                    btn = params.buttons[i];
+                    btn.style = (btn.style || 'default') + ' pull-left';
+                    btn.type = btn.type || 'button';
+                }
+            }
+
+            var buttons = _getFooter([{
+                close: true,
+                type: 'reset',
+                text: LABEL.OK,
+                style: KEY_DANGER
+            }, {
+                close: false,
+                type: EVENT_SUBMIT,
+                text: defaultSettings.confirmLabel
+            }].concat(params.buttons || []));
+
+            params.buttons = false;
+            params.onHide = submit;
+
+            params.message = jQuery('&lt;form role=form style="margin-bottom:0;"&gt;' +
+                    '&lt;div class=modal-body&gt;' +
+                    '&lt;label for=prompt-input class=control-label&gt;' + (params.message || EMPTY) + '&lt;/label&gt;' +
+                    '&lt;input type=text class=form-control required autocomplete="on" value="' + (params.value || EMPTY) + (params.pattern ? '" pattern="' + params.pattern : EMPTY) + '"&gt;' +
+                    '&lt;/div&gt;&lt;/form&gt;')
+                .append(buttons)
+                .on(EVENT_SUBMIT, submit);
+
+            return alert(params);
+
+            function submit(ev) {
+                var value = jQuerymodal.find(INPUT).val();
+                close();
+
+                //TODO:
+                ev.type !== EVENT_SUBMIT ?
+                    dfd.reject(value) :
+                    dfd.resolve(value);
+
+                return false;
+            }
+        }
+
+        function setId(id) {
+            _getModalInstance(true)
+                .find(MODAL_DIALOG)
+                .prop('id', id);
+        }
+
+        /**
+         * Set or change eModal options.
+         * @param {Object} overrideOptions
+         * @returns {Object} merged eModal options
+         */
+        function setEModalOptions(overrideOptions) {
+            return jQuery.extend(defaultSettings, overrideOptions);
+        }
+
+        /**
+         * Set or change bootstrap modal options.
+         * @param {Object} overrideOptions
+         * @returns {Object} merged eModal options
+         */
+        function setModalOptions(overrideOptions) {
+            jQuerymodal &amp;&amp; jQuerymodal.remove();
+
+            return jQuery.extend(options, overrideOptions);
+        }
+
+        /**
+         * Close the current open eModal
+         * @returns {jQueryDOM} eModal DOM element
+         */
+        function close() {
+            if (jQuerymodal) {
+                jQuerymodal.off(HIDE).modal(EVENT_HIDE);
+            }
+            return jQuerymodal;
+        }
+        //#endregion
+    });
+}(typeof define == 'function' &amp;&amp; define.amd ?
+    define :
+    function (args, mName) {
+        this.eModal = typeof module != 'undefined' &amp;&amp; module.exports ?
+            mName(require(args[0]), module.exports) :
+            mName(window.jQuery, {});
+    }));]]&gt;&lt;/script&gt;&lt;script_name&gt;eModal&lt;/script_name&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;brent.llewellyn&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-06-28 19:28:49&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;2bbff868db4bd7405dbe38f0ad961993&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;eModal&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_2bbff868db4bd7405dbe38f0ad961993&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;brent.llewellyn&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-06-28 19:29:03&lt;/sys_updated_on&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload><payload_hash>472878378</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>f70e9fe8db431b40497856f3ce9619a5</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447ded5830000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>eModal</target_name><type>UI Script</type><update_domain>global</update_domain><update_guid>f2cfb8649c4bd740f237ee71c6cf581b</update_guid><update_guid_history>f2cfb8649c4bd740f237ee71c6cf581b:472878378,67bff868434bd7400787b1e6c2a95c95:-1342105808</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_rel_widget_clone_eef7bc64db4bd7405dbe38f0ad9619bd</name><payload><![CDATA[<record_update table="sp_rel_widget_clone"><sp_rel_widget_clone action="INSERT_OR_UPDATE"><child display_value="Copy of Cool Clock">26f7bc64db4bd7405dbe38f0ad9619ad</child><cloned>2018-06-28 18:54:54</cloned><last_validated>2018-06-28 18:54:54</last_validated><parent display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</parent><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category&gt;sample&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function ($timeout) {
+	var c = this;
+	c.darkness = "";
+	if (!c.options.c_color || !c.options.c_color.length)
+		c.options.c_color = 'red';
+	
+	var z = c.options.zone || "America/Los_Angeles"
+	c.date = moment().tz(z);
+	c.majors = new Array(12);
+	c.minors = new Array(60); 
+	(function tick() {
+		c.date = new moment().tz(z);
+		var t = c.date.hours();
+		c.darkness = "";
+		if (t &gt; 17)
+			c.darkness = "evening";
+		if (t &gt; 19)
+			c.darkness = "night";
+		if (t &lt; 5)
+			c.darkness = "night";
+		
+		$timeout(tick, 1000);
+	})();
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.clock {
+  width: 100%;
+  max-width:400px;
+  max-height: 400px;
+  padding: 1em;
+  margin: auto;
+}
+
+.square {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 100%;
+}
+
+.clock-face {
+	stroke: #333;
+	fill: #FFF;
+}
+
+.minor {
+	stroke: #999;
+	stroke-width: 0.5;
+}
+
+.major {
+	stroke: #333;
+	stroke-width: 1;
+}
+
+.hour {
+	stroke: #333;
+}
+
+.minute {
+	stroke: #666; 
+}
+
+.second-counterweight {
+	stroke-width: 3;
+}
+
+g.night circle.clock-face {
+  stroke: #fff;
+  fill: #333;
+}
+
+g.night line.major {
+  stroke: #fff;
+}
+
+g.night line.hour {
+  stroke: #fff;
+}
+
+g.night line.minute {
+  stroke: #fff;
+}
+
+g.evening circle.clock-face {
+  stroke: #fff;
+  fill: #888;
+}
+
+g.evening line.major {
+  stroke: #fff;
+}
+
+g.evening line.hour {
+  stroke: #fff;
+}
+
+g.evening line.minute {
+  stroke: #fff;
+}
+
+g.evening line.minor {
+  stroke: #fff;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data&gt;{"options": 
+	{
+		"zone": "America/Los_Angeles",
+		"title": "San Diego, CA",
+		"c_color": "blue"
+	}
+}&lt;/demo_data&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list&gt;title&lt;/field_list&gt;&lt;has_preview&gt;true&lt;/has_preview&gt;&lt;id&gt;widget-cool-clock&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function (scope, $element, attrs) {
+	var element = $element[0];
+	cacheElementSize(scope, element);
+	$(window).on('resize', onWindowResize);
+	// run after layout
+	setTimeout(onWindowResize, 5);
+	
+	function cacheElementSize(scope, element) {
+		var elem = scope.elem = {}
+		elem.w = element.offsetWidth;
+		elem.h = element.offsetHeight;
+		return elem;
+	}
+
+	function onWindowResize() {
+		var elem = scope.elem;
+		var isSizeChanged = elem.w != element.offsetWidth || elem.h != element.offsetHeight;
+		if (isSizeChanged) {
+			elem = cacheElementSize(scope, element);
+			// to stay square, the child width has to be
+			// min of height, width
+			var w = Math.min(elem.h, elem.w);
+			var clock = element.firstChild;
+			clock.style.width = w + "px";
+		}
+	}	
+}]]&gt;&lt;/link&gt;&lt;name&gt;Cool Clock&lt;/name&gt;&lt;option_schema&gt;[{"name":"zone","default_value":"America/Los_Angeles","section":"Data","label":"TimeZone","type":"string"},{"name":"c_color","default_value":"red","section":"Presentation","label":"Second hand color","type":"string"}]&lt;/option_schema&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function () {
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-03-19 15:50:03&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;3a36b30b6f3631005be8583e6b3ee490&lt;/sys_id&gt;&lt;sys_mod_count&gt;179&lt;/sys_mod_count&gt;&lt;sys_name&gt;Cool Clock&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;141418dddb400300497856f3ce96195c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_3a36b30b6f3631005be8583e6b3ee490&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-08-24 20:37:37&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="clock"&gt;
+  &lt;span&gt;&lt;/span&gt;
+    &lt;div class="square"&gt;
+      &lt;svg viewBox="0 0 100 100"&gt;
+        &lt;g transform="translate(50,50)" class="{{c.darkness}}" &gt;
+          &lt;circle class="clock-face" r="48" /&gt;
+          &lt;line ng-repeat="minor in c.minors track by $index" class="minor"
+            y1="42" y2="45" ng-attr-transform="rotate({{360 * $index / c.minors.length}})" /&gt;
+          &lt;line ng-repeat="major in c.majors track by $index" class="major"
+            y1="35" y2="46" ng-attr-transform="rotate({{360 * $index / c.majors.length}})" /&gt;
+          &lt;line class="hour" y1="2" y2="-20"
+            ng-attr-transform="rotate({{30 * c.date.hours() + c.date.minutes() / 2}})" /&gt;
+          &lt;line class="minute" y1="4" y2="-30"
+            ng-attr-transform="rotate({{6 * c.date.minutes() + c.date.seconds() / 10}})" /&gt;
+          &lt;g ng-attr-transform="rotate({{6 * c.date.seconds()}})"&gt;
+            &lt;line stroke="{{::c.options.c_color}}" class="second" y1="10" y2="-38" /&gt;
+            &lt;line stroke="{{::c.options.c_color}}" class="second-counterweight" y1="10" y2="2" /&gt;
+          &lt;/g&gt;
+        &lt;/g&gt;
+      &lt;/svg&gt;
+    &lt;/div&gt;
+  &lt;div class="text-center text-muted m-t-sm"&gt;{{::c.options.title}}&lt;/div&gt;
+&lt;/div&gt;
+]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload><sys_class_name>sp_rel_widget_clone</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:54:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>eef7bc64db4bd7405dbe38f0ad9619bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>26f7bc64db4bd7405dbe38f0ad9619ad</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_rel_widget_clone_eef7bc64db4bd7405dbe38f0ad9619bd</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:54:54</sys_updated_on></sp_rel_widget_clone></record_update>]]></payload><payload_hash>1672209430</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>fb0e9fe8db431b40497856f3ce9619a4</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bf910c0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>26f7bc64db4bd7405dbe38f0ad9619ad</target_name><type>Widget Clone</type><update_domain>global</update_domain><update_guid>2ef7bc64d24bd74050e53468d6edd8be</update_guid><update_guid_history>2ef7bc64d24bd74050e53468d6edd8be:1672209430</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml><action>INSERT_OR_UPDATE</action><application display_value="Global">global</application><category>customer</category><comments/><name>sp_container_2d087864db4bd7405dbe38f0ad961998</name><payload><![CDATA[<record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Widget on Platform - Container 1</name><order>1</order><sp_page display_value="wop_home">b6c7b864db4bd7405dbe38f0ad961913</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-28 18:55:06</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2d087864db4bd7405dbe38f0ad961998</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Widget on Platform - Container 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_2d087864db4bd7405dbe38f0ad961998</sys_update_name><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-28 18:55:06</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload><payload_hash>1827443731</payload_hash><remote_update_set display_value="formWidget">770e9fe8db431b40497856f3ce9619a3</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>brent.llewellyn</sys_created_by><sys_created_on>2018-06-29 07:00:31</sys_created_on><sys_id>ff0e9fe8db431b40497856f3ce9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>16447bfc14a0000001</sys_recorded_at><sys_updated_by>brent.llewellyn</sys_updated_by><sys_updated_on>2018-06-29 07:00:31</sys_updated_on><table/><target_name>Widget on Platform - Container 1</target_name><type>Container</type><update_domain>global</update_domain><update_guid>a1087864404bd740628fdaf4c86abe9a</update_guid><update_guid_history>a1087864404bd740628fdaf4c86abe9a:1827443731</update_guid_history><update_set/><view/></sys_update_xml></unload>
